@@ -9,5 +9,4 @@ Easy to use.
 For example.
 ```
 ssh -R 0:localhost:8080 secssh.com
-
 ```
